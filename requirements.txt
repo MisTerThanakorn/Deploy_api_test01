@@ -1,6 +1,6 @@
 Flask
 flask-cors
-tensorflow
+tensorflow-cpu
 numpy
 pillow
 scikit-image
